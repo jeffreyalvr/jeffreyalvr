@@ -14,7 +14,7 @@ Feel free to take a look at my repositories, and please, tell me are your though
 
 <br/>
 
-[<img src="https://user-images.githubusercontent.com/17326060/158519183-cfd06be9-6050-41b9-9590-871d1c22bc64.png" title="LinkedIn" alt="LinkedIn" />](https://github.com/matheusunitt)
+[<img src="https://user-images.githubusercontent.com/17326060/158519183-cfd06be9-6050-41b9-9590-871d1c22bc64.png" title="LinkedIn" alt="LinkedIn" />](https://www.linkedin.com/in/jeffreymatheus/)
 
 <br/>
 
