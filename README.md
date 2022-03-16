@@ -50,6 +50,9 @@ Feel free to take a look at my repositories, and please, tell me are your though
 
 # <p align="center">PORTUGUÊS</p>
 
+<details>
+<summary>Clique para ver</summary><br/>
+
 ### ℹ️ Informações gerais
 
 Olá! Meu nome é Jeffrey e eu possuo 25 anos. Estudei e me graduei em Ciências da Computação na UNIPÊ (Centro Universitário de João Pessoa) de 2014 a 2019, e atualmente estou cursando Desenvolvimento de Aplicações Web no mesmo local.
@@ -83,3 +86,5 @@ Por favor, sinta-se livre para ver meus repositórios e dar-me teu feedback hone
 <br/>
 
 *<p align="right">Última alteração: 16/03/2022</p>*
+
+</details>
