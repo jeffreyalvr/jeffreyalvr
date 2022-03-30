@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn1.iconfinder.com/data/icons/ensign-11/512/49_Ensign_Flag_Nation_canada-64.png" />
-</p>
-
 # <p align="center">ENGLISH</p>
 
 ### ℹ️ Basic Info
@@ -43,10 +39,6 @@ Feel free to take a look at my repositories, and please, tell me are your though
 ---
 
 <br/><br/>
-
-<p align="center">
-  <img src="https://cdn1.iconfinder.com/data/icons/ensign-11/512/38_Ensign_Flag_Nation_brazil-64.png" />
-</p>
 
 # <p align="center">PORTUGUÊS</p>
 
