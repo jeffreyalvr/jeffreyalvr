@@ -1,8 +1,8 @@
 ### ℹ️ Informações gerais
 
-Olá! Meu nome é Jeffrey e eu possuo 26 anos. Estudei e me graduei em Ciências da Computação na UNIPÊ (Centro Universitário de João Pessoa) de 2014 a 2019, e atualmente estou cursando Desenvolvimento de Aplicações Web no mesmo local.
+Olá! Meu nome é Jeffrey e eu possuo 26 anos. Graduei-me em Ciências da Computação pela UNIPÊ (Centro Universitário de João Pessoa) de 2014 a 2019, e atualmente estou cursando Desenvolvimento de Aplicações Web (pós-graduação) no mesmo local.
 
-Sou um grande fã por projetos web e algumas das minhas ferramentas favoritas estão listadas na seção de ferramentas.
+Sou bastante interessado em desenvolver projetos web e penso em futuramente portá-los para dispositivos móveis.
 
 Por favor, sinta-se livre para ver meus repositórios e dar-me teu feedback honesto!
 
