@@ -2,9 +2,9 @@
 
 Olá! Meu nome é Jeffrey e eu possuo 26 anos. Graduei-me em Ciências da Computação pela UNIPÊ (Centro Universitário de João Pessoa) de 2014 a 2019, e atualmente estou cursando Desenvolvimento de Aplicações Web (pós-graduação) no mesmo local.
 
-Sou bastante interessado em desenvolver projetos web e penso em futuramente portá-los para dispositivos móveis.
+Sou bastante interessado em desenvolver projetos web e pretendo me especializar também em desenvolvimento de aplicações em dispositivos móveis.
 
-Por favor, sinta-se livre para ver meus repositórios e dar-me teu feedback honesto!
+Por favor, sinta-se livre para ver os meus repositórios e dar-me teu feedback honesto!
 
 <br/>
 
