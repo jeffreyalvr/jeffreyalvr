@@ -8,7 +8,7 @@ Por favor, sinta-se livre para ver os meus repositórios e dar-me teu feedback h
 
 <br/>
 
-[<img src="https://user-images.githubusercontent.com/17326060/158519183-cfd06be9-6050-41b9-9590-871d1c22bc64.png" title="LinkedIn" alt="LinkedIn"  />](https://www.linkedin.com/in/jeffreyalvr/) [<img src="https://i.imgur.com/UDHRFVa.png" title="Meu site pessoal" alt="Meu site pessoal"  />](https://www.jeffreyalvr.dev)
+[<img src="https://i.imgur.com/Gxix7YQ.png" title="LinkedIn" alt="LinkedIn"  />](https://www.linkedin.com/in/jeffreyalvr/) [<img src="https://i.imgur.com/69WfcZn.png" title="Meu site pessoal" alt="Meu site pessoal"  />](https://www.jeffreyalvr.dev)
 
 <br/>
 
