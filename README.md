@@ -29,7 +29,6 @@ Por favor, sinta-se livre para ver e testar os meus repositórios, alguns possue
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node JS" alt="Node JS" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" title="Ruby" alt="Ruby" />&nbsp;
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" title="Ruby on Rails" alt="Ruby on Rails" />&nbsp;
 
 <br/>
 
@@ -37,4 +36,5 @@ Por favor, sinta-se livre para ver e testar os meus repositórios, alguns possue
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" />&nbsp;
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" title="Elixir" alt="Elixir" />&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Golang" alt="Golang" />&nbsp;
+<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" title="Ruby on Rails" alt="Ruby on Rails" />&nbsp;
 
